@@ -1,0 +1,7 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio",
+  "version": "1.0.0",
+  "dependencies": {
+    "simplehttpserver": "^0.3.0"
+  }
+}
