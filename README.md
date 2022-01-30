@@ -1,4 +1,4 @@
-# Web Performance Optimization Final Project
+# Web Performance Optimization CRP Optimization project
 
 # What I have done to optimize CRP
 
