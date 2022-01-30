@@ -1,6 +1,6 @@
 # Web Performance Optimization Final Project
 
-# What I have done
+# What I have done to optimize CRP
 
 1. added media print for print.css
 2. added media rule for specific styles for mobile portrait orientation
